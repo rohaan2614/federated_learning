@@ -163,3 +163,8 @@ cython_debug/
 
 # Project specific
 data/*
+save/LeNet5/*
+
+
+# checkpoints
+*.pth
